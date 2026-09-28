@@ -1,0 +1,4 @@
+prototype/models/*.keras
+prototype/__pycache__/
+prototype/.pytest_cache/
+__pycache__/

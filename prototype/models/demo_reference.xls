@@ -1,0 +1,7 @@
+filename,original_image_path,label
+case_1.jpg,C:\Users\Rhithika\OneDrive\Desktop\Y3S2\CM3070_FinalProj\Dataset\Kaggle_BC_dataset\jpeg\1.3.6.1.4.1.9590.100.1.2.397916896811660285917923905571097682567\1-009.jpg,0
+case_2.jpg,C:\Users\Rhithika\OneDrive\Desktop\Y3S2\CM3070_FinalProj\Dataset\Kaggle_BC_dataset\jpeg\1.3.6.1.4.1.9590.100.1.2.77701178612385361115971076201770600132\1-091.jpg,0
+case_3.jpg,C:\Users\Rhithika\OneDrive\Desktop\Y3S2\CM3070_FinalProj\Dataset\Kaggle_BC_dataset\jpeg\1.3.6.1.4.1.9590.100.1.2.330163983812746852405062655053253634134\1-298.jpg,0
+case_4.jpg,C:\Users\Rhithika\OneDrive\Desktop\Y3S2\CM3070_FinalProj\Dataset\Kaggle_BC_dataset\jpeg\1.3.6.1.4.1.9590.100.1.2.96511975911876292931610031542715440172\1-055.jpg,1
+case_5.jpg,C:\Users\Rhithika\OneDrive\Desktop\Y3S2\CM3070_FinalProj\Dataset\Kaggle_BC_dataset\jpeg\1.3.6.1.4.1.9590.100.1.2.154710156412596240610170136852613181245\1-036.jpg,1
+case_6.jpg,C:\Users\Rhithika\OneDrive\Desktop\Y3S2\CM3070_FinalProj\Dataset\Kaggle_BC_dataset\jpeg\1.3.6.1.4.1.9590.100.1.2.250054663313830417628987201831448844947\1-126.jpg,1
